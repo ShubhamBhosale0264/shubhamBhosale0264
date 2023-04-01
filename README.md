@@ -24,8 +24,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shubham bhosale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shubham-bhosale45
-" height="60" width="60" /></a>
-<a href="https://instagram.com/shubh_am_bhosale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubh_am_bhosale" height="60" width="60" /></a>
+" height="50" width="50" /></a>
+<a href="https://instagram.com/shubh_am_bhosale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubh_am_bhosale" height="50" width="50" /></a>
    <img src="https://media.tenor.com/NOYF3f82b_gAAAAS/programmer.gif" align= "right" width="100" height="100" />
 </p>
 
