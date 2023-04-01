@@ -26,7 +26,9 @@
 <a href="https://linkedin.com/in/shubham bhosale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shubham-bhosale45
 " height="30" width="40" /></a>
 <a href="https://instagram.com/shubh_am_bhosale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubh_am_bhosale" height="30" width="40" /></a>
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAS/programmer.gif" align= "right" width="100" height="100" />
+<marquee behavior="scroll" direction="left">
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAS/programmer.gif" align= "right" width="100" height="100" />
+ </marquee>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
