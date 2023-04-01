@@ -1,26 +1,6 @@
 <h1 align="center">
  <img src="Banner.png" />
 </h1>
-<style>
- 
-        /* Makes the animation pause on hover */
-        .moving-text:hover{
-            animation-play-state: paused;
-        }
- 
-        /* The animation */
-        @keyframes marquee{
-            0%{transform: translateX(100%);}
-            100%{transform: translateX(-100%);}
-        }
- 
-        /* media query to enable animation for only those who want it */
-        @media (prefers-reduced-motion: no-preference) {
-            .moving-img{
-                animation: marquee 15s linear infinite;
-            }
-        }
-    </style>
 <h1 align="center">Hi 👋, I'm Shubh🅰️m Bajrang Bhosale</h1>
 <h3 align="center">🅰️ Passionate 🅿️ython Programmer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham720p&label=Profile%20views&color=0e75b6&style=flat" alt="shubham720p" /> </p>
