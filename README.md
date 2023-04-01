@@ -1,6 +1,26 @@
 <h1 align="center">
  <img src="Banner.png" />
 </h1>
+<style>
+ 
+        /* Makes the animation pause on hover */
+        .moving-text:hover{
+            animation-play-state: paused;
+        }
+ 
+        /* The animation */
+        @keyframes marquee{
+            0%{transform: translateX(100%);}
+            100%{transform: translateX(-100%);}
+        }
+ 
+        /* media query to enable animation for only those who want it */
+        @media (prefers-reduced-motion: no-preference) {
+            .moving-img{
+                animation: marquee 15s linear infinite;
+            }
+        }
+    </style>
 <h1 align="center">Hi 👋, I'm Shubh🅰️m Bajrang Bhosale</h1>
 <h3 align="center">🅰️ Passionate 🅿️ython Programmer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham720p&label=Profile%20views&color=0e75b6&style=flat" alt="shubham720p" /> </p>
@@ -26,7 +46,7 @@
 <a href="https://linkedin.com/in/shubham bhosale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shubham-bhosale45
 " height="30" width="40" /></a>
 <a href="https://instagram.com/shubh_am_bhosale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubh_am_bhosale" height="30" width="40" /></a>
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAS/programmer.gif" align= "right" width="150" height="150" />" align= "right" width="100" height="100" />
+   <img src="https://media.tenor.com/NOYF3f82b_gAAAAS/programmer.gif" align= "right" width="100" height="100" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
