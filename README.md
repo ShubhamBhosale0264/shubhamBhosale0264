@@ -1,8 +1,8 @@
 <h1 align="center">
  <img src="Banner.png" />
 </h1>
-<h1 align="center">Hi 👋, I'm Shubh🅰️m 🅱️ajrang 🅱️hosale</h1>
-<h3 align="center">🅰️ 🅿️assionate 🅿️ython 🅿️rogrammer</h3>
+<h1 align="center">Hi 👋, I'm Shubh🅰️m Bajrang Bhosale</h1>
+<h3 align="center">🅰️ Passionate 🅿️ython Programmer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham720p&label=Profile%20views&color=0e75b6&style=flat" alt="shubham720p" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham720p" alt="shubham720p" /></a> </p>
