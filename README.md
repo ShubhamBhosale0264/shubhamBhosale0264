@@ -37,5 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham720p&show_icons=true&locale=en" alt="shubham720p" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham720p&" alt="shubham720p" /></p>
-<h5 align="center"style="color:red>This PC (with QR code ) belongs to me , Kindly contact me if you found it></h5>
 
