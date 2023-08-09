@@ -10,6 +10,8 @@
 
 - 🔭 I’m currently working on **Excel Project**
 
+- 👯 I’m looking to work in **MNCs**
+
 - 👨‍💻 All of my projects are available at [https://github.com/shubham720p](https://github.com/shubham720p)
 
 - 💬 Ask me about **Excel, Python-GUI , SQL**
@@ -19,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubham85667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham85667" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubham bhosale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham bhosale" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubham-bhosale45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-bhosale45" height="30" width="40" /></a>
 <a href="https://fb.com/shubham bhosale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubham bhosale" height="30" width="40" /></a>
 <a href="https://instagram.com/shubham_bhosle.45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham_bhosle.45" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shubhambhosle556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhambhosle556" height="30" width="40" /></a>
