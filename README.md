@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="Banner.png" />
+ <img src="gitB.png" />
 </h1>
 <h1 align="center">Hi 👋, I'm Shubham Bhosale</h1>
 <h3 align="center">A passionate Python Programmer & data Analyst</h3>
