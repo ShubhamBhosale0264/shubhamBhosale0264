@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubham720p](https://github.com/shubham720p)
 
-- 💬 Ask me about **Excel, Python-GUI , SQL**
+- 💬 Ask me about **Excel,Visualization, SQL**
 
 - 📫 How to reach me **shubhambhosle556@gmail.com**
 
