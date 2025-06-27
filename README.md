@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Excel Project**
 
-- 👯 I’m looking to work in **MNCs**
+- 👯 I’m looking to work in **MNCs , Tech Startups**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhamBhosale0264](https://github.com/shubhamBhosale0264)
 
